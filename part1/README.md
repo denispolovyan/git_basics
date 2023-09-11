@@ -1,4 +1,4 @@
-# lab1 python (first_branch)
+# lab1 python
 
 
 | Сommand list |  part 1   |
